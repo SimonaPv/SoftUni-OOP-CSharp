@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRaiding", "TRaiding.csproj", "{DD9B456E-2934-43CA-8FCF-42C4B66BD80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9B456E-2934-43CA-8FCF-42C4B66BD80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9B456E-2934-43CA-8FCF-42C4B66BD80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9B456E-2934-43CA-8FCF-42C4B66BD80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9B456E-2934-43CA-8FCF-42C4B66BD80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE45C02D-2E06-4A7A-93C3-F993F158392E}
+	EndGlobalSection
+EndGlobal
